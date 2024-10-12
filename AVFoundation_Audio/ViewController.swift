@@ -27,7 +27,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        currentTrack = Int.random(in: 0..<tracksName.count)
         prepareToPlay()
     }
 
