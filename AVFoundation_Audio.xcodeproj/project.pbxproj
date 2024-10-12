@@ -14,6 +14,11 @@
 		15B5622E25DE323900D5B871 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15B5622D25DE323900D5B871 /* Assets.xcassets */; };
 		15B5623125DE323900D5B871 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15B5622F25DE323900D5B871 /* LaunchScreen.storyboard */; };
 		15B5623B25DE403800D5B871 /* Queen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 15B5623A25DE403800D5B871 /* Queen.mp3 */; };
+		59CA7BA02CBA15E9002BFEDA /* Flow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59CA7B9E2CBA15E9002BFEDA /* Flow.mp3 */; };
+		59CA7BA12CBA15E9002BFEDA /* Midnight Forest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59CA7B9F2CBA15E9002BFEDA /* Midnight Forest.mp3 */; };
+		59CA7BA22CBA15E9002BFEDA /* Drive Breakbeat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59CA7B9D2CBA15E9002BFEDA /* Drive Breakbeat.mp3 */; };
+		59CA7BA32CBA15E9002BFEDA /* AMALGAM.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59CA7B9B2CBA15E9002BFEDA /* AMALGAM.mp3 */; };
+		59CA7BA42CBA15E9002BFEDA /* Creative Technology Showreel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59CA7B9C2CBA15E9002BFEDA /* Creative Technology Showreel.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +31,11 @@
 		15B5623025DE323900D5B871 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		15B5623225DE323900D5B871 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15B5623A25DE403800D5B871 /* Queen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Queen.mp3; sourceTree = "<group>"; };
+		59CA7B9B2CBA15E9002BFEDA /* AMALGAM.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = AMALGAM.mp3; sourceTree = "<group>"; };
+		59CA7B9C2CBA15E9002BFEDA /* Creative Technology Showreel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Creative Technology Showreel.mp3"; sourceTree = "<group>"; };
+		59CA7B9D2CBA15E9002BFEDA /* Drive Breakbeat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Drive Breakbeat.mp3"; sourceTree = "<group>"; };
+		59CA7B9E2CBA15E9002BFEDA /* Flow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Flow.mp3; sourceTree = "<group>"; };
+		59CA7B9F2CBA15E9002BFEDA /* Midnight Forest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Midnight Forest.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +83,11 @@
 		15B5623925DE3FDE00D5B871 /* Music */ = {
 			isa = PBXGroup;
 			children = (
+				59CA7B9B2CBA15E9002BFEDA /* AMALGAM.mp3 */,
+				59CA7B9C2CBA15E9002BFEDA /* Creative Technology Showreel.mp3 */,
+				59CA7B9D2CBA15E9002BFEDA /* Drive Breakbeat.mp3 */,
+				59CA7B9E2CBA15E9002BFEDA /* Flow.mp3 */,
+				59CA7B9F2CBA15E9002BFEDA /* Midnight Forest.mp3 */,
 				15B5623A25DE403800D5B871 /* Queen.mp3 */,
 			);
 			path = Music;
@@ -135,6 +150,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59CA7BA02CBA15E9002BFEDA /* Flow.mp3 in Resources */,
+				59CA7BA12CBA15E9002BFEDA /* Midnight Forest.mp3 in Resources */,
+				59CA7BA22CBA15E9002BFEDA /* Drive Breakbeat.mp3 in Resources */,
+				59CA7BA32CBA15E9002BFEDA /* AMALGAM.mp3 in Resources */,
+				59CA7BA42CBA15E9002BFEDA /* Creative Technology Showreel.mp3 in Resources */,
 				15B5623125DE323900D5B871 /* LaunchScreen.storyboard in Resources */,
 				15B5622E25DE323900D5B871 /* Assets.xcassets in Resources */,
 				15B5623B25DE403800D5B871 /* Queen.mp3 in Resources */,
@@ -299,7 +319,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 85LN7ALLMX;
+				DEVELOPMENT_TEAM = 9JFZ7SN6JA;
 				INFOPLIST_FILE = AVFoundation_Audio/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -318,7 +338,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 85LN7ALLMX;
+				DEVELOPMENT_TEAM = 9JFZ7SN6JA;
 				INFOPLIST_FILE = AVFoundation_Audio/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
